@@ -6,3 +6,8 @@ Sample chat application using SocketIO and NodeJS
 npm install
 npm run start
 ```
+
+### Creating dist folder using Gulp
+```sh
+gulp build
+```
